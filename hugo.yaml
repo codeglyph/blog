@@ -2,3 +2,6 @@ baseURL: https://codeglyph.io/
 languageCode: en-us
 title: CodeGlyph
 theme: ["PaperMod"]
+
+params:
+  comments: true

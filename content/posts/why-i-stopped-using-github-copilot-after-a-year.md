@@ -1,6 +1,6 @@
 ---
 date: "2024-07-14T19:09:23+05:30"
-draft: true
+draft: false
 title: "Why I Stopped Using Github Copilot After a Year"
 ---
 
@@ -28,11 +28,11 @@ Photo by [Nong](https://unsplash.com/@californong?utm_source=medium&utm_medium=r
 
 However, as the initial excitement wore off, I began to notice some downsides:
 
-1.  **The Overeager Backseat Driver:** While Copilot’s suggestions were often helpful, they sometimes felt like an overly enthusiastic backseat driver. Its constant nudges and prompts, while well-intentioned, started to feel intrusive. It was as if it was saying, “Are you sure you want to code it that way?” This led to more second-guessing than I was comfortable with, disrupting my natural coding flow.
-2.  **Falling into the Dependency Trap:** I realized that I was starting to rely on Copilot for tasks I would usually breeze through. Instead of writing a simple function or solving a straightforward problem, I found myself waiting for Copilot to suggest an answer. This dependency made me lazier and reduced my engagement with the code, which was counterproductive to my growth as a developer.
-3.  **The Flow State Disruption:** Coding is an art that thrives on focus and immersion. Being in the zone is where real magic happens. Copilot’s interruptions, though meant to be helpful, often pulled me out of this flow state. Instead of losing myself in the problem-solving process, I was distracted by its suggestions, leading to a fragmented and less satisfying coding experience.
-4.  **The Time Sink Paradox:** Ironically, what was meant to save time ended up consuming more of it. Waiting for Copilot’s autocompletes and parsing through its suggestions often took longer than if I had just written the code myself. It became a paradox where the tool designed to boost efficiency was, in fact, eating into my productivity.
-5.  **Losing the Creative Spark**: One of the most significant downsides was that I began to lose interest in thinking through problems and finding creative solutions. The essence of coding — the joy of problem-solving and the thrill of cracking a tough problem — started to fade. While Copilot helped me deliver features faster, it took out the fun and made my work feel monotonous and less engaging.
+1. **The Overeager Backseat Driver:** While Copilot’s suggestions were often helpful, they sometimes felt like an overly enthusiastic backseat driver. Its constant nudges and prompts, while well-intentioned, started to feel intrusive. It was as if it was saying, “Are you sure you want to code it that way?” This led to more second-guessing than I was comfortable with, disrupting my natural coding flow.
+2. **Falling into the Dependency Trap:** I realized that I was starting to rely on Copilot for tasks I would usually breeze through. Instead of writing a simple function or solving a straightforward problem, I found myself waiting for Copilot to suggest an answer. This dependency made me lazier and reduced my engagement with the code, which was counterproductive to my growth as a developer.
+3. **The Flow State Disruption:** Coding is an art that thrives on focus and immersion. Being in the zone is where real magic happens. Copilot’s interruptions, though meant to be helpful, often pulled me out of this flow state. Instead of losing myself in the problem-solving process, I was distracted by its suggestions, leading to a fragmented and less satisfying coding experience.
+4. **The Time Sink Paradox:** Ironically, what was meant to save time ended up consuming more of it. Waiting for Copilot’s autocompletes and parsing through its suggestions often took longer than if I had just written the code myself. It became a paradox where the tool designed to boost efficiency was, in fact, eating into my productivity.
+5. **Losing the Creative Spark**: One of the most significant downsides was that I began to lose interest in thinking through problems and finding creative solutions. The essence of coding — the joy of problem-solving and the thrill of cracking a tough problem — started to fade. While Copilot helped me deliver features faster, it took out the fun and made my work feel monotonous and less engaging.
 
 ---
 
